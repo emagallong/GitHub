@@ -27,8 +27,3 @@ Figura 2. Sierra (***Scomberomorus sierra***)
 <div style="text-align: right">
 <img src="http://www.discoverlife.org/IM/I_RR/0019/640/Scomberomorus_sierra,I_RR1990.jpg"/ width =25%></div>
 
-
-
-
-
-
