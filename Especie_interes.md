@@ -11,7 +11,6 @@
 ***Scomberomorus concolor***
 
 <div style="text-align: center">
-![](http://www.discoverlife.org/IM/I_RR/0019/640/Scomberomorus,I_RR1988.jpg)
 
 
 Figura 1. Sierra del Golfo de California (***Scomberomorus concolor***)
